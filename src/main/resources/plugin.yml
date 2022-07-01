@@ -1,0 +1,4 @@
+name: NareEssentials
+version: '0.0.1'
+main: com.jungma.nareessentials.NareEssentials
+api-version: 1.18
